@@ -1,1 +1,1 @@
-Initial commit on main
+Initial commit
